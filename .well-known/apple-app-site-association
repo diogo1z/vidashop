@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "N9H95ZBM4X.br.com.vidalink",
+        "paths": ["*"]
+      },
+      {
+        "appID": "N9H95ZBM4X.br.com.vidalink.beta",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
