@@ -78,4 +78,18 @@
   #rd-row-kcz15j09 .bricks--column > div {
     min-height: 441px;
   }
+
+
+}
+
+@media screen and (max-width: 768px) {
+#rd-box-kcz0zltl {
+  margin-top: 49px!important
+}
+}
+
+@media screen and (max-width: 700px) {
+#rd-box-kcz0zltl {
+  margin-top: 10px!important
+}
 }
